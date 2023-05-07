@@ -1,4 +1,4 @@
-# Palindrome Lab Solution 2
+# Palindrome Lab Solution 2 c
 
 ## Learning Goals
 
